@@ -204,11 +204,15 @@ tr
 ---
 
 ## 👨‍💻 المطور
-**Muhannad Daher AI** - بوت التداول الذكي
+**Muhannad Daher** - بوت التداول الذكي
 - المنصة: Deriv
 - البيئة: Termux (Android)
 - الإصدار: v1.0
 
 ndroid)
 - الإصدار: v1.0
+
+0
+
+ v1.0
 
