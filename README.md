@@ -1,7 +1,6 @@
 <div align="center">
 
-# 📱 Termux Customizer
-## 📱 أداة تخصيص واجهة Termux
+## 📱 أداة مدارك تريدر برو v1.0
 ### ꧁ঔৣ☬ Muhannad Daher ☬ঔৣ꧂
 
 ![Python](https://img.shields.io/badge/Python-3.x-green?style=for-the-badge&logo=python)
