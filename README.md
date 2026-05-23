@@ -115,6 +115,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 ### Deriv
 </div>
+
 1. سجّل دخولك على [deriv.com](https://deriv.com)
 2. اذهب إلى **الإعدادات** (Settings)
 3. اختر **Security & Safety**
@@ -130,6 +131,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
  
 ### Binance
 </div>
+
 1. سجّل دخولك على [binance.com](https://binance.com)
 2. اضغط على صورة ملفك الشخصي
 3. اختر **API Management**
@@ -148,6 +150,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
  
 ### MetaTrader 5
 </div>
+
 1. افتح تطبيق **MetaTrader 5**
 2. اذهب إلى **Tools** ← **Options**
 3. اختر تبويب **Server**
@@ -175,6 +178,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 ### قائمة الإعدادات (5 خطوات)
 </div>
 
+
 | الخطوة | الخيارات |
 |--------|----------|
 | 1 - المنصة | 1-3 للاختيار، 0 للرئيسية |
@@ -194,7 +198,7 @@ Ctrl + C → فتح قائمة التحكم
 
 
 ### قائمة التحكم
-</div
+</div>
 ```
 1 → متابعة تشغيل البوت
 2 → تغيير الإعدادات
