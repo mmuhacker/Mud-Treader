@@ -259,6 +259,7 @@ Ctrl + C → فتح قائمة التحكم
  <div align="center">
   
 *MetaTrader 5
+
 </div>
 
 | الرقم | الزوج | النوع |
@@ -356,11 +357,16 @@ tr
 [![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
 [![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madarik.ai.info@gmail.com)
 
+</div>
+
+---
+
 - بوت التداول الذكي
 - البيئة: Termux (Android)
 - الإصدار: v3.0
 
 ---
+<div align="center">
 
 ⭐ إذا أعجبتك الأداة، لا تنسَ النجمة! ⭐
 </div>
