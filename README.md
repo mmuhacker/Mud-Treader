@@ -192,7 +192,11 @@ tr
 **Muhannad Daher**
 [![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
 
-****madarik.ai.info@gmail.com****
+[
+
+![تواصل معنا](https://img.shields.io/badge/تواصل_معنا-madarik.ai.info%40gmail.com-red?style=for-the-badge&logo=gmail)
+
+](mailto:madarik.ai.info@gmail.com)
 
 - بوت التداول الذكي
 - المنصة: Deriv
