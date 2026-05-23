@@ -76,7 +76,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 **للحصول على مفتاح:** تواصل مع المطور.
 
-##### madarik.ai.info@gmail.com 
+###### madarik.ai.info@gmail.com 
 
 **مميزات النظام:**
 - ✅ التحقق التلقائي عبر الإنترنت
