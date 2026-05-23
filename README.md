@@ -75,7 +75,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 عند أول تشغيل يطلب البوت مفتاح ترخيص.
 
 **للحصول على مفتاح:** تواصل مع المطور.
-## **madarik.ai.info@gmail.com**
+href="mailto:madarik.ai.info@gmail.com">تواصل مع المطور</a>.</p>
 **مميزات النظام:**
 - ✅ التحقق التلقائي عبر الإنترنت
 - ✅ يعمل بدون إنترنت بعد أول تفعيل
