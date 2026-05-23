@@ -38,6 +38,8 @@
 
 ---
 <div align="center">
+
+ 
 ## 🔧 التثبيت
 </div>
 
@@ -58,6 +60,7 @@ curl -o ~/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main
 
 ---
 <div align="center">
+ 
 ## 🚀 التشغيل
 </div>
 
@@ -78,6 +81,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 ---
 <div align="center">
+ 
 ## 🔑 نظام الترخيص
 </div>
 
@@ -93,6 +97,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 ---
 <div align="center">
+ 
 ## 🏦 المنصات المدعومة
 </div>
 
@@ -104,6 +109,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 ---
 <div align="center">
+ 
 ## 🔐 استخراج التوكن
 
 ### Deriv
@@ -120,6 +126,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 ---
 <div align="center">
+ 
 ### Binance
 </div>
 1. سجّل دخولك على [binance.com](https://binance.com)
@@ -137,6 +144,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 ---
 <div align="center">
+ 
 ### MetaTrader 5
 </div>
 1. افتح تطبيق **MetaTrader 5**
@@ -151,6 +159,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 ---
 <div align="center">
+ 
 ## 📱 شرح القوائم
 
 ### الصفحة الرئيسية
@@ -161,6 +170,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 3 → إغلاق البرنامج
 ```
 <div align="center">
+ 
 ### قائمة الإعدادات (5 خطوات)
 </div>
 
@@ -173,12 +183,14 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 | 5 - الصفقة | إدخال المبلغ والمدة، 0 للسابق، x للرئيسية |
 
 <div align="center">
+ 
 ### أثناء التشغيل
 </div>
 ```
 Ctrl + C → فتح قائمة التحكم
 ```
 <div align="center">
+
 
 ### قائمة التحكم
 </div
@@ -190,6 +202,7 @@ Ctrl + C → فتح قائمة التحكم
 
 ---
 <div align="center">
+ 
 ## 📍 الأسواق المتاحة
 
 ### Deriv
@@ -207,6 +220,7 @@ Ctrl + C → فتح قائمة التحكم
 | 9 | مؤشر تقلب 50 | مؤشرات |
 
 <div align="center">
+ 
 ### Binance
 </div>
 | الرقم | الزوج |
@@ -222,6 +236,7 @@ Ctrl + C → فتح قائمة التحكم
 | 9 | LTC/USDT |
 
 <div align="center">
+ 
 ### MetaTrader 5
 </div>
 | الرقم | الزوج | النوع |
@@ -238,6 +253,7 @@ Ctrl + C → فتح قائمة التحكم
 
 ---
 <div align="center">
+ 
 ## 🎯 الاستراتيجيات
 </div>
 
@@ -253,6 +269,7 @@ Ctrl + C → فتح قائمة التحكم
 
 ---
 <div align="center">
+ 
 ## 📊 لوحة التحكم
 </div>
 
@@ -269,6 +286,7 @@ Ctrl + C → فتح قائمة التحكم
 | 💵 السعر | السعر الفوري المباشر |
 
 <div align="center">
+ 
 ### ألوان الإشارة
 </div>
 
@@ -282,6 +300,7 @@ Ctrl + C → فتح قائمة التحكم
 
 ---
 <div align="center">
+ 
 ## ⚡ اختصار التشغيل
 </div>
 
@@ -295,6 +314,7 @@ tr
 
 ---
 <div align="center">
+ 
 ## ⚠️ تنبيه
 
 > التداول ينطوي على مخاطر. لا تستثمر أكثر مما تستطيع تحمل خسارته.
