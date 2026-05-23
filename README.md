@@ -130,6 +130,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 <div align="center">
  
 *Binance*
+
 </div>
 
 1. سجّل دخولك على [binance.com](https://binance.com)
@@ -146,9 +147,11 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 > مثال على شكل التوكن: `vmPUZE6mv9SD5VNHk4HlWFsOr6aKE2zvsw0MuIgwCIPy6utIco14y7Ju91duEh8A`
 
 ---
+
 <div align="center">
  
 *MetaTrader 5*
+
 </div>
 
 1. افتح تطبيق **MetaTrader 5**
@@ -162,17 +165,21 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 > مثال على شكل التوكن: `12345678`
 
 ---
+
 <div align="center">
  
 ## 📱 شرح القوائم
 
 ### الصفحة الرئيسية
 </div>
+
 ```
 1 → تشغيل البوت
 2 → الإعدادات
 3 → إغلاق البرنامج
 ```
+---
+
 <div align="center">
  
 ### قائمة الإعدادات (5 خطوات)
@@ -191,9 +198,12 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
  
 ### أثناء التشغيل
 </div>
+
 ```
 Ctrl + C → فتح قائمة التحكم
 ```
+---
+
 <div align="center">
 
 
@@ -206,6 +216,7 @@ Ctrl + C → فتح قائمة التحكم
 ```
 
 ---
+
 <div align="center">
  
 ## 📍 الأسواق المتاحة
@@ -226,6 +237,7 @@ Ctrl + C → فتح قائمة التحكم
 | 9 | مؤشر تقلب 50 | مؤشرات |
 
 ---
+
  <div align="center">
   
 *Binance
@@ -243,9 +255,10 @@ Ctrl + C → فتح قائمة التحكم
 | 9 | LTC/USDT |
 
 ---
+
  <div align="center">
   
-### MetaTrader 5
+*MetaTrader 5
 </div>
 
 | الرقم | الزوج | النوع |
@@ -261,6 +274,7 @@ Ctrl + C → فتح قائمة التحكم
 | 9 | داو جونز | مؤشرات |
 
 ---
+
 <div align="center">
  
 ## 🎯 الاستراتيجيات
@@ -277,6 +291,7 @@ Ctrl + C → فتح قائمة التحكم
 > البوت يدخل الصفقة فقط عند تأكيد **65% أو أكثر**
 
 ---
+
 <div align="center">
  
 ## 📊 لوحة التحكم
@@ -310,6 +325,7 @@ Ctrl + C → فتح قائمة التحكم
 | ⏳ أبيض | انتظار - لا فرصة حالياً |
 
 ---
+
 <div align="center">
  
 ## ⚡ اختصار التشغيل
@@ -324,6 +340,7 @@ tr
 ```
 
 ---
+
 <div align="center">
  
 ## ⚠️ تنبيه
