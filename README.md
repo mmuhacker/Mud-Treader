@@ -113,7 +113,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
  
 ## 🔐 استخراج التوكن
 
-### Deriv
+*Deriv*
 </div>
 
 1. سجّل دخولك على [deriv.com](https://deriv.com)
@@ -129,7 +129,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 ---
 <div align="center">
  
-### Binance
+*Binance*
 </div>
 
 1. سجّل دخولك على [binance.com](https://binance.com)
@@ -148,7 +148,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 ---
 <div align="center">
  
-### MetaTrader 5
+*MetaTrader 5*
 </div>
 
 1. افتح تطبيق **MetaTrader 5**
@@ -209,8 +209,9 @@ Ctrl + C → فتح قائمة التحكم
 <div align="center">
  
 ## 📍 الأسواق المتاحة
-</div
-### Deriv
+
+*Deriv
+</div>
 
 | الرقم | الزوج | النوع |
 |-------|-------|-------|
@@ -225,9 +226,10 @@ Ctrl + C → فتح قائمة التحكم
 | 9 | مؤشر تقلب 50 | مؤشرات |
 
 ---
- 
-### Binance
-
+ <div align="center">
+  
+*Binance
+</div>
 | الرقم | الزوج |
 |-------|-------|
 | 1 | BTC/USDT |
@@ -241,8 +243,10 @@ Ctrl + C → فتح قائمة التحكم
 | 9 | LTC/USDT |
 
 ---
- 
+ <div align="center">
+  
 ### MetaTrader 5
+</div>
 
 | الرقم | الزوج | النوع |
 |-------|-------|-------|
@@ -289,6 +293,8 @@ Ctrl + C → فتح قائمة التحكم
 | ⚡ الإشارة | توصية الشراء أو البيع |
 | 💪 قوة الإشارة | شريط من 0% إلى 100% |
 | 💵 السعر | السعر الفوري المباشر |
+
+---
 
 <div align="center">
  
