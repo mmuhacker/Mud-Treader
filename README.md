@@ -193,7 +193,7 @@ tr
 [![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
 
 [
-![تواصل معنا](https://img.shields.io/badge/تواصل_معنا-madarik.ai.info%40gmail.com-red?style=for-the-badge&logo=gmail)
+![تواصل معنا](https://img.shields.io/badge/تواصل_معنا-black?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:madarik.ai.info@gmail.com)
 
 - بوت التداول الذكي
