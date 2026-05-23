@@ -191,8 +191,8 @@ tr
 ## 👨‍💻 المطور
 **Muhannad Daher**
 [![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
+[![Gmail](https://img.shields.io/badge/GitHub-تواصل معنا-black?style=for-the-badge&logo=github)](madarik.ai.info@gmail.com)
 
-*madarik.ai.info@gmail.com*
 - بوت التداول الذكي
 - المنصة: Deriv
 - البيئة: Termux (Android)
