@@ -170,7 +170,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
  
 ## 📱 شرح القوائم
 
-### الصفحة الرئيسية
+*الصفحة الرئيسية*
 </div>
 
 ```
