@@ -47,12 +47,12 @@
 pkg install python -y
 ```
 
-*2. تثبيت المكتبات*
+**2. تثبيت المكتبات**
 ```bash
 pip install websocket-client rich arabic-reshaper "python-bidi==0.4.2"
 ```
 
-### 3. تحميل البوت مباشرة من GitHub
+**3. تحميل البوت مباشرة من GitHub**
 ```bash
 curl -o ~/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py
 ```
@@ -63,17 +63,17 @@ curl -o ~/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main
 ## 🚀 التشغيل
 </div>
 
-### بالاختصار (بعد إعداده)
+ **بالاختصار (بعد إعداده)**
 ```bash
 tr
 ```
 
-### أو بالأمر الكامل
+**أو بالأمر الكامل**
 ```bash
 python ~/mud_tr.py
 ```
 
-### إعداد الاختصار (مرة واحدة فقط)
+**إعداد الاختصار (مرة واحدة فقط)**
 ```bash
 echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 ```
