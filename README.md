@@ -1,5 +1,5 @@
 <div align="center">
-# 🌟 مدارك تريدر برو - V1.0 
+**🌟 مدارك تريدر برو - V1.0**
  
  بوت التداول الذكي المتكامل
 
@@ -20,6 +20,7 @@
 - [الاستراتيجيات](#-الاستراتيجيات)
 - [لوحة التحكم](#-لوحة-التحكم)
 - [اختصار التشغيل](#-اختصار-التشغيل)
+- [المطور](#-المطور)
 
 ---
 <div align="center">
@@ -84,9 +85,9 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 ## 🔑 نظام الترخيص
 </div>
 
-عند أول تشغيل يطلب البوت مفتاح ترخيص.
+*عند أول تشغيل يطلب البوت مفتاح ترخيص.*
 
-**للحصول على مفتاح:** تواصل مع المطور.
+**للحصول على مفتاح:** تواصل مع [المطور](#-المطور)
 
 **مميزات النظام:**
 - ✅ التحقق التلقائي عبر الإنترنت
@@ -112,7 +113,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
  
 ## 🔐 استخراج التوكن
 
-*Deriv*
+**Deriv**
 </div>
 
 1. سجّل دخولك على [deriv.com](https://deriv.com)
@@ -128,7 +129,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 ---
 <div align="center">
  
-*Binance*
+**Binance**
 
 </div>
 
@@ -149,7 +150,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 <div align="center">
  
-*MetaTrader 5*
+**MetaTrader 5**
 
 </div>
 
@@ -169,7 +170,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
  
 ## 📱 شرح القوائم
 
-*الصفحة الرئيسية*
+**الصفحة الرئيسية**
 </div>
 
 ```
