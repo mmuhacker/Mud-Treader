@@ -42,12 +42,12 @@
 ## 🔧 التثبيت
 </div>
 
-### 1. تثبيت Python
+**1. تثبيت Python**
 ```bash
 pkg install python -y
 ```
 
-### 2. تثبيت المكتبات
+*2. تثبيت المكتبات*
 ```bash
 pip install websocket-client rich arabic-reshaper "python-bidi==0.4.2"
 ```
