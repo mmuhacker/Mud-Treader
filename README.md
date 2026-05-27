@@ -331,6 +331,8 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 tr
 ```
 
+</div>
+
 ---
 <div align="center">
 
