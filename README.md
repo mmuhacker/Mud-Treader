@@ -348,8 +348,8 @@ tr
 
 [![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madarik.ai.info@gmail.com)
 
----
 </div>
+---
 
 
 
