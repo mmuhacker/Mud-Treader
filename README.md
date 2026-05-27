@@ -20,8 +20,10 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 
-</div>
+
 ---
+
+</div>
 
 ## 📋 المحتويات
 
