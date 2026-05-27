@@ -127,7 +127,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 ## 🔐 استخراج التوكن
 
-### Deriv
+***Deriv***
 </div>
 
 1. سجّل دخولك على [deriv.com](https://deriv.com)
@@ -144,7 +144,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 <div align="center">
 
 
-### Binance
+***Binance***
 </div>
 
 1. سجّل دخولك على [binance.com](https://binance.com)
@@ -161,7 +161,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 ---
 <div align="center">
 
-### MetaTrader 5
+***MetaTrader 5***
 </div>
 
 1. افتح تطبيق **MetaTrader 5**
@@ -223,7 +223,7 @@ Ctrl + C → فتح قائمة التحكم
 
 ## 📍 الأسواق المتاحة
 
-### Deriv
+**Deriv**
 | # | الزوج | النوع |
 |---|-------|-------|
 | 1 | EUR/USD | فوركس |
@@ -239,7 +239,7 @@ Ctrl + C → فتح قائمة التحكم
 ---
 
 
-### Binance
+**Binance**
 | # | الزوج |
 |---|-------|
 | 1 | BTC/USDT |
@@ -254,7 +254,7 @@ Ctrl + C → فتح قائمة التحكم
 
 ---
 
-### MetaTrader 5
+**MetaTrader 5**
 | # | الزوج | النوع |
 |---|-------|-------|
 | 1 | EUR/USD | فوركس |
