@@ -5,9 +5,17 @@
 ---
 
 ![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
+
+
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
+
+
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
+
+
 ![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)
+
+
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ---
@@ -31,6 +39,7 @@
 - [اختصار التشغيل](#-اختصار-التشغيل)
 
 ---
+<div align="center">
 
 ## ✅ متطلبات التشغيل
 
@@ -89,12 +98,17 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 **للحصول على مفتاح:** تواصل مع المطور.
 
 **مميزات النظام:**
+
+</div>
+
 - ✅ التحقق التلقائي عبر الإنترنت
 - ✅ يعمل بدون إنترنت بعد أول تفعيل
 - ✅ يتوقف تلقائياً عند انتهاء الصلاحية
 - ✅ 3 محاولات إدخال فقط
 
 ---
+<div align="center">
+
 
 ## 🏦 المنصات المدعومة
 
@@ -109,6 +123,8 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 ## 🔐 استخراج التوكن
 
 ### Deriv
+</div>
+
 1. سجّل دخولك على [deriv.com](https://deriv.com)
 2. اذهب إلى **الإعدادات** (Settings)
 3. اختر **Security & Safety**
@@ -120,8 +136,12 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 > مثال: `uYgU8m4B3vXvE8z`
 
 ---
+<div align="center">
+
 
 ### Binance
+</div>
+
 1. سجّل دخولك على [binance.com](https://binance.com)
 2. اضغط على صورة ملفك الشخصي
 3. اختر **API Management**
@@ -134,8 +154,11 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 > ملاحظة: احفظ الـ Secret Key فوراً لأنه لن يظهر مجدداً
 
 ---
+<div align="center">
 
 ### MetaTrader 5
+</div>
+
 1. افتح تطبيق **MetaTrader 5**
 2. اذهب إلى **Tools** ← **Options**
 3. اختر تبويب **Server**
@@ -143,7 +166,8 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 5. أدخله في البوت عند الطلب
 
 ---
-
+<div align="center">
+  
 ## 📱 شرح القوائم
 
 ### الصفحة الرئيسية
@@ -311,6 +335,7 @@ tr
 **Muhannad Daher**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
+
 [![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madarik.ai.info@gmail.com)
 
 </div>
