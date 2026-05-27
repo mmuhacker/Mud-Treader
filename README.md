@@ -238,19 +238,18 @@ Ctrl + C → فتح قائمة التحكم
 
 ---
 
-
 **Binance**
-| # | الزوج |
-|---|-------|
-| 1 | BTC/USDT |
-| 2 | ETH/USDT |
-| 3 | BNB/USDT |
-| 4 | SOL/USDT |
-| 5 | XRP/USDT |
-| 6 | ADA/USDT |
-| 7 | DOGE/USDT |
-| 8 | MATIC/USDT |
-| 9 | LTC/USDT |
+| # | الزوج | النوع |
+|---|-------|-------|
+| 1 | BTC/USDT | كريبتو |
+| 2 | ETH/USDT | كريبتو |
+| 3 | BNB/USDT | كريبتو |
+| 4 | SOL/USDT | كريبتو |
+| 5 | XRP/USDT | كريبتو |
+| 6 | ADA/USDT | كريبتو |
+| 7 | DOGE/USDT | كريبتو |
+| 8 | MATIC/USDT | كريبتو |
+| 9 | LTC/USDT | كريبتو |
 
 ---
 
