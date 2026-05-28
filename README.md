@@ -100,7 +100,7 @@ echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 
 **للحصول على مفتاح:** تواصل مع المطور.
 
-[![Contact Us](https://img.shields.io/badge/Contact_Us-lightred?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
+[![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
 
 
 **مميزات النظام:**
