@@ -33,25 +33,17 @@
 - [نظام الترخيص](#-نظام-الترخيص)
 - [المنصات المدعومة](#-المنصات-المدعومة)
 - [استخراج التوكن](#-استخراج-التوكن)
-  
 - [شرح القوائم](#-شرح-القوائم)
-  
 - [الفريم الزمني](#-الفريم-الزمني)
-  
 - [الأسواق المتاحة](#-الأسواق-المتاحة)
-  
 - [الاستراتيجيات](#-الاستراتيجيات)
-  
 - [قوة الإشارة](#-قوة-الإشارة)
-  
 - [لوحة التحكم](#-لوحة-التحكم)
-  
 - [اختصار التشغيل](#-اختصار-التشغيل)
-  
 - [المطور](https://github.com/mmuhacker/Mud-Treader/blob/main/README.md#%E2%80%8D-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1)
 
 ---
-
+<div align="center">
 ## ✅ متطلبات التشغيل
 
 | المكتبة | الوصف |
@@ -77,8 +69,12 @@ pkg update && pkg upgrade -y && pkg install python curl tor -y && mkdir -p ~/.te
 curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc-VaA.ttf" -o ~/.termux/font.ttf && termux-reload-settings
 
 ```
+<div align="center">
 
-**3. تثبيت المكتبات وإعداد الإختصار**
+## # ⚡ اختصار التشغيل
+</div>
+
+**وتثبيت المكتبات وإعداد الإختصار**
 ```bash
 pip install arabic-reshaper python-bidi --break-system-packages && curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py && ln -sf $PREFIX/bin/mud_tr.py $PREFIX/bin/tr
 
@@ -90,8 +86,10 @@ curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Tr
 ```
 
 ---
+<div align="center">
 
 ## 🚀 التشغيل
+</div>
 
 **بالاختصار (تم إعداده مسبقاً)**
 ```bash
@@ -102,8 +100,10 @@ tr
 ```bash
 python ~/mud_tr.py
 ```
-
+<div align="center">
+  
 ## التثبيت بأمر واحد
+</div>
 
 **تثبيت المكتبات والمتطلبات والتشغيل بأمر واحد لمرة واحدة**
 
@@ -114,16 +114,18 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 
 
 ---
-
+<div align="center">
+  
 ## 🔑 نظام الترخيص
-
+</div>
 عند أول تشغيل يطلب البوت مفتاح ترخيص.
 
 **للحصول على مفتاح:** تواصل مع المطور.
 
 [![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
 
-
+<div align="center">
+  
 **مميزات النظام:**
 
 </div>
@@ -164,7 +166,6 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 
 ---
 <div align="center">
-
 
 ***Binance***
 </div>
@@ -341,20 +342,6 @@ Ctrl + C → فتح قائمة التحكم
 | ⏳ أبيض | انتظار - لا فرصة حالياً |
 
 ---
-
-## ⚡ اختصار التشغيل
-
-```bash
-# إعداد الاختصار (مرة واحدة)
-echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
-
-# التشغيل
-tr
-```
-
-</div>
-
----
 <div align="center">
 
 ## ⚠️ تنبيه
@@ -386,6 +373,6 @@ tr
 
 
 
-**⭐ إذا أعجبتك الأداة، لا تنسَ النجمة! ⭐**
+⭐ **إذا أعجبتك الأداة، لا تنسَ النجمة!** ⭐
 
 </div>
