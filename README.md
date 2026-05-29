@@ -29,6 +29,7 @@
 - [متطلبات التشغيل](#-متطلبات-التشغيل)
 - [التثبيت](#-التثبيت)
 - [التشغيل](#-التشغيل)
+- [تحديث الأداة](#-تحديث_الأداة)
 - [نظام الترخيص](#-نظام-الترخيص)
 - [المنصات المدعومة](#-المنصات-المدعومة)
 - [استخراج التوكن](#-استخراج-التوكن)
@@ -69,22 +70,22 @@ curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9Pk
 
 ```
 
-**3. تثبيت المكتبات**
-``bash
-pip install arabic-reshaper python-bidi --break-system-packages && curl -o $PREFIX/bin/mud_tc.py https://raw.githubusercontent.com/mmuhacker/termux-customizer/main/mud_tc.py && chmod +x $PREFIX/bin/mud_tc.py && ln -sf $PREFIX/bin/mud_tc.py $PREFIX/bin/tc
+**3. تثبيت المكتبات وإعداد الإختصار**
+```bash
+pip install arabic-reshaper python-bidi --break-system-packages && curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py && ln -sf $PREFIX/bin/mud_tr.py $PREFIX/bin/tc
 
 ```
-
-**4. تحميل البوت مباشرة من GitHub**
+## 🔄 تحديث الأداة
+**يتم تحديث الأداة عند صدور تحديث بهذا الأمر**
 ```bash
-curl -o ~/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py
+curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py
 ```
 
 ---
 
 ## 🚀 التشغيل
 
-**بالاختصار (بعد إعداده)**
+**بالاختصار (تم إعداده مسبقاً)**
 ```bash
 tr
 ```
@@ -94,10 +95,6 @@ tr
 python ~/mud_tr.py
 ```
 
-**إعداد الاختصار (مرة واحدة فقط)**
-```bash
-echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
-```
 ## التثبيت بأمر واحد
 
 ** تثبيت المكتبات والمتطلبات والتشغيل بأمر واحد لمرة واحدة**
