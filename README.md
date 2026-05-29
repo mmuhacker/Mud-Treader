@@ -58,17 +58,22 @@
 
 ## 🔧 التثبيت
 
-### 1. تثبيت Python
+**1. تحديث النظام والمكتبات**
+```bash
+pkg update && pkg upgrade -y
+```
+
+**2. تثبيت Python**
 ```bash
 pkg install python -y
 ```
 
-### 2. تثبيت المكتبات
+**3. تثبيت المكتبات**
 ```bash
 pip install websocket-client rich arabic-reshaper "python-bidi==0.4.2"
 ```
 
-### 3. تحميل البوت مباشرة من GitHub
+**4. تحميل البوت مباشرة من GitHub**
 ```bash
 curl -o ~/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py
 ```
@@ -77,20 +82,22 @@ curl -o ~/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main
 
 ## 🚀 التشغيل
 
-### بالاختصار (بعد إعداده)
+**بالاختصار (بعد إعداده)**
 ```bash
 tr
 ```
 
-### أو بالأمر الكامل
+**أو بالأمر الكامل**
 ```bash
 python ~/mud_tr.py
 ```
 
-### إعداد الاختصار (مرة واحدة فقط)
+**إعداد الاختصار (مرة واحدة فقط)**
 ```bash
 echo "alias tr='python ~/mud_tr.py'" >> ~/.bashrc && source ~/.bashrc
 ```
+## التثبيت بأمر واحد
+** تثبيت المكتبات والمتطلبات والتشغيل بأمر واحد
 
 ---
 
