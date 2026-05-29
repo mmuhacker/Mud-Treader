@@ -58,19 +58,21 @@
 
 ## 🔧 التثبيت
 
-**1. تحديث النظام والمكتبات**
+**1. تحديث النظام والمكتبات وتثبيت المتطلبات (لمرة واحدة)**
 ```bash
-pkg update && pkg upgrade -y
+pkg update && pkg upgrade -y && pkg install python curl tor -y && mkdir -p ~/.termux
 ```
 
-**2. تثبيت Python**
+**2. تثبيت الخط العربي (مرة واحدة) إذا لم يكن مثبتاً**
 ```bash
-pkg install python -y
+curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc-VaA.ttf" -o ~/.termux/font.ttf && termux-reload-settings
+
 ```
 
 **3. تثبيت المكتبات**
-```bash
-pip install websocket-client rich arabic-reshaper "python-bidi==0.4.2"
+``bash
+pip install arabic-reshaper python-bidi --break-system-packages && curl -o $PREFIX/bin/mud_tc.py https://raw.githubusercontent.com/mmuhacker/termux-customizer/main/mud_tc.py && chmod +x $PREFIX/bin/mud_tc.py && ln -sf $PREFIX/bin/mud_tc.py $PREFIX/bin/tc
+
 ```
 
 **4. تحميل البوت مباشرة من GitHub**
