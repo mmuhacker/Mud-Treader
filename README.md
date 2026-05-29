@@ -24,7 +24,6 @@
 
 ## 📋 المحتويات
 
-</div>
 
 - [متطلبات التشغيل](#-متطلبات-التشغيل)
   
@@ -59,7 +58,6 @@
 - [المطور](https://github.com/mmuhacker/Mud-Treader/blob/main/README.md#%E2%80%8D-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1)
 
 ---
-<div align="center">
 
 ## ✅ متطلبات التشغيل
 
@@ -74,6 +72,7 @@
 ---
 
 ## 🔧 التثبيت
+</div>
 
 **1. تحديث النظام والمكتبات وتثبيت المتطلبات (لمرة واحدة)**
 ```bash
@@ -88,7 +87,7 @@ curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9Pk
 
 **3. تثبيت المكتبات وإعداد الإختصار**
 ```bash
-pip install arabic-reshaper python-bidi --break-system-packages && curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py && ln -sf $PREFIX/bin/mud_tr.py $PREFIX/bin/tc
+pip install arabic-reshaper python-bidi --break-system-packages && curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py && ln -sf $PREFIX/bin/mud_tr.py $PREFIX/bin/tr
 
 ```
 ## 🔄 تحديث الأداة
