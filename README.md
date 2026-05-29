@@ -75,7 +75,7 @@ curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9Pk
 ## # ⚡ اختصار التشغيل
 </div>
 
-**وتثبيت المكتبات وإعداد الإختصار**
+**تثبيت المكتبات وإعداد الإختصار**
 ```bash
 pip install arabic-reshaper python-bidi --break-system-packages && curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py && ln -sf $PREFIX/bin/mud_tr.py $PREFIX/bin/tr
 
@@ -343,7 +343,6 @@ Ctrl + C → فتح قائمة التحكم
 | ⏳ أبيض | انتظار - لا فرصة حالياً |
 
 ---
-<div align="center">
 
 ## ⚠️ تنبيه
 
@@ -371,7 +370,6 @@ Ctrl + C → فتح قائمة التحكم
 ---
 
 <div align="center">
-
 
 
 ⭐ **إذا أعجبتك الأداة، لا تنسَ النجمة!** ⭐
