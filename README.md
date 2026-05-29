@@ -39,7 +39,7 @@
 - [الاستراتيجيات](#-الاستراتيجيات)
 - [قوة الإشارة](#-قوة-الإشارة)
 - [لوحة التحكم](#-لوحة-التحكم)
-- [اختصار التشغيل](#-اختصار_التشغيل)
+- [اختصار التشغيل](https://github.com/mmuhacker/Mud-Treader/blob/main/README.md#--%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84)
 - [المطور](https://github.com/mmuhacker/Mud-Treader/blob/main/README.md#%E2%80%8D-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1)
 
 ---
