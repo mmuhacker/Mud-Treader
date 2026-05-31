@@ -6,7 +6,7 @@
 
 ---
 
-![Version](https://img.shields.io/badge/1.0-%D8%A7%D9%84%D8%A5%D8%B5%D9%80%D8%AF%D8%A7%D8%B1-blue?style=flat-square)
+![Version](https://img.shields.io/badge/1.0-%EF%BA%8D%EF%BB%B9%EF%BA%BB%EF%BA%AA%EF%BA%8D%EF%BA%AE-blue?style=for-the-badge)
 
 ![Platform](https://img.shields.io/badge/Platform-Kali_Linux-green?style=for-the-badge&logo=kalilinux)
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
