@@ -5,7 +5,7 @@
 *بوت التداول الذكي المتكامل*
 
 ---
-![Version](https://img.shields.io/badge/1.0-الإصدار-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/1.0-\u0627\u0644\u0627\u0625\u0635\u062F\u0627\u0631-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Kali_Linux-green?style=for-the-badge&logo=kalilinux)
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
