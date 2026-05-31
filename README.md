@@ -7,11 +7,17 @@
 ---
 
 ![Version](https://img.shields.io/badge/1.0-%EF%BA%8D%EF%BB%B9%EF%BA%BB%EF%BA%AA%EF%BA%8D%EF%BA%AE-blue?style=for-the-badge)
+
 ![Platform]![Version](https://img.shields.io/badge/1.0-%EF%BA%8D%EF%BB%B9%EF%BA%BB%EF%BA%AA%EF%BA%8D%EF%BA%AE-blue?style=for-the-badge)
+
 ![Platform](https://img.shields.io/badge/Kali_Linux-%EF%BA%8D%EF%BB%9F%EF%BA%92%EF%BB%B4%EF%BA%8C%EF%BA%94-green?style=for-the-badge&logo=kalilinux)
+
 ![Platform](https://img.shields.io/badge/Android-%EF%BA%8D%EF%BB%9F%EF%BA%92%EF%BB%B4%EF%BA%8C%EF%BA%94-green?style=for-the-badge&logo=android)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/Commercial-%EF%BA%8D%EF%BB%9F%EF%BA%98%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BC-red?style=for-the-badge)
+
+![License](https://img.shields.io/badge/%EF%BA%97%EF%BA%9E%EF%BA%8E%EF%BA%AD%EF%BB%B2-%EF%BA%8D%EF%BB%9F%EF%BA%98%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BC-red?style=for-the-badge)
+
+
 ![Status](https://img.shields.io/badge/%EF%BB%A7%EF%BA%B8%EF%BB%A2-%EF%BA%8D%EF%BB%9F%EF%BA%A4%EF%BA%8E%EF%BB%9F%EF%BA%94-brightgreen?style=for-the-badge)
 
 ---
