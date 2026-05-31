@@ -8,10 +8,10 @@
 
 ![Version](https://img.shields.io/badge/1.0-%EF%BA%8D%EF%BB%B9%EF%BA%BB%EF%BA%AA%EF%BA%8D%EF%BA%AE-blue?style=for-the-badge)
 
-![Platform](https://img.shields.io/badge/Platform-Kali_Linux-green?style=for-the-badge&logo=kalilinux)
-![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
+![Platform](https://img.shields.io/badge/Kali_Linux-البيئة-green?style=for-the-badge&logo=kalilinux)
+![Platform](https://img.shields.io/badge/Android-البيئة-green?style=for-the-badge&logo=android)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)
+![License](https://img.shields.io/badge/Commercial-الترخيص-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ---
@@ -116,10 +116,11 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 عند أول تشغيل يطلب البوت مفتاح ترخيص.
 
 **للحصول على مفتاح:** تواصل مع المطور.
-
+<div align="center">
+  
 [![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
 
-<div align="center">
+
   
 **مميزات النظام:**
 
