@@ -6,18 +6,14 @@
 
 ---
 
-<div align="center">
 
-![Version](https://img.shields.io/badge/1.0-%EF%BA%AD%EF%BA%8D%EF%BA%AA%EF%BA%BB%EF%BB%B9%EF%BA%8D-blue?style=for-the-badge)<br>
-![Platform](https://img.shields.io/badge/%EF%BB%AC%EF%BB%9C%EF%BB%A8%EF%BB%B4%EF%BB%9F%20%EF%BB%B2%EF%BB%9F%EF%BA%8E%EF%BB%9B-%EF%BA%94%EF%BA%8C%EF%BB%B4%EF%BA%92%EF%BB%9F%EF%BA%8D-green?style=for-the-badge&logo=kalilinux)<br>
-![Platform](https://img.shields.io/badge/%EF%BA%AA%EF%BB%B3%EF%BB%AD%EF%BA%AD%EF%BA%AA%EF%BB%A7%EF%BA%83-%EF%BA%94%EF%BA%8C%EF%BB%B4%EF%BA%92%EF%BB%9F%EF%BA%8D-green?style=for-the-badge&logo=android)<br>
-![Python](https://img.shields.io/badge/%EF%BB%A5%EF%BB%AE%EF%BA%9C%EF%BB%B3%EF%BA%8E%EF%BA%91-3.x-yellow?style=for-the-badge&logo=python)<br>
-![License](https://img.shields.io/badge/%EF%BB%B1%EF%BA%AD%EF%BA%8E%EF%BA%A0%EF%BA%97-%EF%BA%BA%EF%BB%B4%EF%BA%A7%EF%BA%AE%EF%BA%98%EF%BB%9F%EF%BA%8D-red?style=for-the-badge)<br>
-![Status](https://img.shields.io/badge/%EF%BB%8C%EF%BA%B8%EF%BB%A7-%EF%BA%94%EF%BB%9F%EF%BA%8E%EF%BA%A4%EF%BB%9F%EF%BA%8D-brightgreen?style=for-the-badge)<br><br>
-[![Contact Us](https://img.shields.io/badge/%EF%BA%8E%EF%BB%A8%EF%BB%8C%EF%BB%A3%20%EF%BB%9E%EF%BA%BB%EF%BA%8D%EF%BB%AE%EF%BA%97-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
-
-</div>
-
+![Version](https://img.shields.io/badge/1.0-%EF%BA%8D%EF%BB%B9%EF%BA%BB%EF%BA%AA%EF%BA%8D%EF%BA%AE-blue?style=for-the-badge)<br>
+![Platform](https://img.shields.io/badge/%EF%BA%8D%EF%BB%9D%EF%BA%92%EF%BB%B4%EF%BA%8C%EF%BA%94-%EF%BB%9B%EF%BA%8E%EF%BB%9D%EF%BB%B0_%EF%BB%9D%EF%BB%B4%EF%BB%A4%EF%BB%9C%EF%BA%B2-green?style=for-the-badge&logo=kalilinux)<br>
+![Platform](https://img.shields.io/badge/%EF%BA%8D%EF%BB%9D%EF%BA%92%EF%BB%B4%EF%BA%8C%EF%BA%94-%EF%BA%83%EF%BB%A3%EF%BA%AA%EF%BA%AD%EF%BB%AD%EF%BB%B3%EF%BA%AA-green?style=for-the-badge&logo=android)<br>
+![Python](https://img.shields.io/badge/%EF%BA%91%EF%BA%8E%EF%BB%B3%EF%BA%B6%EF%BB%AE%EF%BB%A5-3.x-yellow?style=for-the-badge&logo=python)<br>
+![License](https://img.shields.io/badge/%EF%BA%8D%EF%BB%9D%EF%BA%98%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA-%EF%BA%97%EF%BA%9E%EF%BA%8E%EF%BA%AD%EF%BB%B1-red?style=for-the-badge)<br>
+![Status](https://img.shields.io/badge/%EF%BA%8D%EF%BB%9D%EF%BA%A4%EF%BA%8E%EF%BB%9D%EF%BA%94-%EF%BB%A3%EF%BA%B8%EF%BB%80-brightgreen?style=for-the-badge)<br><br>
+[![Contact Us](https://img.shields.io/badge/%EF%BA%97%EF%BB%AE%EF%BA%8D%EF%BA%BB%EF%BB%9E%20%EF%BB%A7%EF%BB%8C%EF%BB%A4%EF%BA%8E-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
 
 
 ---
