@@ -95,9 +95,12 @@ curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9Pk
 **تثبيت المكتبات وإعداد الإختصار**
 ```bash
 pip install arabic-reshaper python-bidi --break-system-packages && curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py && ln -sf $PREFIX/bin/mud_tr.py $PREFIX/bin/tr
-
 ```
+
+<div align="center">
 ## 🔄 تحديث الأداة
+</div>
+
 **يتم تحديث الأداة عند صدور تحديث بهذا الأمر**
 ```bash
 curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py
@@ -118,6 +121,7 @@ tr
 ```bash
 python ~/mud_tr.py
 ```
+
 <div align="center">
   
 ## التثبيت بأمر واحد
@@ -136,16 +140,15 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
   
 ## 🔑 نظام الترخيص
 </div>
+
 **عند أول تشغيل يطلب البوت مفتاح ترخيص.**
 
 **للحصول على مفتاح:** تواصل مع المطور.
+
 <div align="center">
-  
 [![Contact Us](https://img.shields.io/badge/%EF%BA%97%EF%BB%A4%EF%BA%8D%EF%BA%BB%EF%BB%A0%20%EF%BB%A3%EF%BB%8C%EF%BB%A8%EF%BA%8E-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
 
 📸 **واجهة الأداة**
-
-<div align="center">
   
 <div align="center">
   <img src="images/01.png" 
