@@ -169,7 +169,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
               background: var(--color-canvas-default);
               padding: 5px;">
   <br>
-  <i style="color: var(--color-fg-default);">الشكل 1: طلب مفتاح الترخيص</i>
+  <i style="color: var(--color-fg-default);">الشكل 1: مفتاح الترخيص</i>
 
 
   
@@ -218,7 +218,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 
 📷 **طلب توكن ديريف**
   
-  <img src="images/01.png" 
+  <img src="images/04.png" 
        width="80%" 
        style="border-radius: 20px; 
               border: 2px solid var(--color-border-default);
