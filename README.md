@@ -249,7 +249,6 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
   
 <div align="center">
   📷 **توكن بينانس**
-  
   <img src="images/05.png" 
        width="80%" 
        style="border-radius: 20px; 
@@ -257,12 +256,8 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
               background: var(--color-canvas-default);
               padding: 5px;">
   <br>
-  <i style="color: var(--color-fg-default);">الشكل 3: توكن بينانس</i>
-
+  <i style="color: var(--color-fg-default);">الشكل 1: توكن بينانس</i>
 ---
-
-<div align="center">
-
 
 ***MetaTrader 5***
 
