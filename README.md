@@ -259,33 +259,31 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 ---
 
 ***MetaTrader 5***
-
 </div>
 
-1. افتح تطبيق **MetaTrader 5**<br>
-2. اذهب إلى **Tools** ← **Options**<br>
-3. اختر تبويب **Server**<br>
-4. انسخ رقم **Login**<br>
+1. افتح تطبيق **MetaTrader 5**
+2. اذهب إلى **Tools** ← **Options**
+3. اختر تبويب **Server**
+4. انسخ رقم **Login**
 5. أدخله في البوت عند الطلب
 
-   <div align="center">
-   
-  📷 **توكن ميتا تريدر**<br>
-  
-  <img src="images/07.png" 
-       width="80%" 
-       style="border-radius: 20px; 
-              border: 2px solid var(--color-border-default);
-              background: var(--color-canvas-default);
-              padding: 5px;">
-  <br>
-  <i style="color: var(--color-fg-default);">الشكل 4: توكن ميتا تريدر</i>
-  
-</div>
+<div align="center">
+
+📷 **توكن ميتا تريدر**
+
+<img src="images/07.png" 
+     width="80%" 
+     style="border-radius: 20px; 
+            border: 2px solid var(--color-border-default);
+            background: var(--color-canvas-default);
+            padding: 5px;">
+<br>
+<i style="color: var(--color-fg-default);">الشكل 4: توكن ميتا تريدر</i>
 
 ---
 
 ## 📱 شرح القوائم
+</div>
 
 **الصفحة الرئيسية**
 
