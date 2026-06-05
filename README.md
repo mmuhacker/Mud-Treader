@@ -41,6 +41,7 @@
 - [المطور](https://github.com/mmuhacker/Mud-Treader/blob/main/README.md#%E2%80%8D-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1)
 
 ---
+
 <div align="center">
 
   ## ✨ المميزات
@@ -75,6 +76,7 @@
 ---
 
 ## 🔧 التثبيت
+
 </div>
 
 **1. تحديث النظام والمكتبات وتثبيت المتطلبات (لمرة واحدة)**
@@ -90,6 +92,7 @@ curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9Pk
 <div align="center">
 
 ## # ⚡ اختصار التشغيل
+
 </div>
 
 **تثبيت المكتبات وإعداد الإختصار**
@@ -99,6 +102,7 @@ pip install arabic-reshaper python-bidi --break-system-packages && curl -o $PREF
 
 <div align="center">
 ## 🔄 تحديث الأداة
+  
 </div>
 
 **يتم تحديث الأداة عند صدور تحديث بهذا الأمر**
@@ -107,9 +111,11 @@ curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud_Tr
 ```
 
 ---
+
 <div align="center">
 
 ## 🚀 التشغيل
+
 </div>
 
 **بالاختصار (تم إعداده مسبقاً)**
@@ -125,6 +131,7 @@ python ~/mud_tr.py
 <div align="center">
   
 ## التثبيت بأمر واحد
+
 </div>
 
 **تثبيت المكتبات والمتطلبات والتشغيل بأمر واحد لمرة واحدة**
@@ -139,6 +146,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 <div align="center">
   
 ## 🔑 نظام الترخيص
+
 </div>
 
 **عند أول تشغيل يطلب البوت مفتاح ترخيص.**
@@ -193,6 +201,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 ## 🔐 استخراج التوكن
 
 ***Deriv***
+
 </div>
 
 1. سجّل دخولك على [deriv.com](https://deriv.com)
@@ -203,12 +212,28 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 6. اختر صلاحية **Read** و **Trade**
 7. انسخ التوكن الظاهر
 
-> مثال: `uYgU8m4B3vXvE8z`
+**مثال: `uYgU8m4B3vXvE8z`**
+
+<div align="center">
+
+📷 **طلب توكن ديريف**
+  
+  <img src="images/01.png" 
+       width="80%" 
+       style="border-radius: 20px; 
+              border: 2px solid var(--color-border-default);
+              background: var(--color-canvas-default);
+              padding: 5px;">
+  <br>
+  <i style="color: var(--color-fg-default);">الشكل 2: توكن ديريف </i>
+
 
 ---
+
 <div align="center">
 
 ***Binance***
+
 </div>
 
 1. سجّل دخولك على [binance.com](https://binance.com)
@@ -220,12 +245,27 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 7. أكمل التحقق الأمني
 8. انسخ **API Key**
 
-> ملاحظة: احفظ الـ Secret Key فوراً لأنه لن يظهر مجدداً
+**ملاحظة: احفظ الـ Secret Key فوراً لأنه لن يظهر مجدداً**
+  
+<div align="center">
+  📷 **توكن بينانس**
+  
+  <img src="images/05.png" 
+       width="80%" 
+       style="border-radius: 20px; 
+              border: 2px solid var(--color-border-default);
+              background: var(--color-canvas-default);
+              padding: 5px;">
+  <br>
+  <i style="color: var(--color-fg-default);">الشكل 3: توكن بينانس</i>
 
 ---
+
 <div align="center">
 
+
 ***MetaTrader 5***
+
 </div>
 
 1. افتح تطبيق **MetaTrader 5**
@@ -235,16 +275,27 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 5. أدخله في البوت عند الطلب
 
 ---
+
 <div align="center">
   
 ## 📱 شرح القوائم
 
 ### الصفحة الرئيسية
-```
+
 1 → تشغيل البوت
 2 → الإعدادات
 3 → إغلاق البرنامج
-```
+<div align="center">
+  
+<div align="center">
+  <img src="images/02.png" 
+       width="80%" 
+       style="border-radius: 20px; 
+              border: 2px solid var(--color-border-default);
+              background: var(--color-canvas-default);
+              padding: 5px;">
+  <br>
+  <i style="color: var(--color-fg-default);">الشكل 1: طلب مفتاح الترخيص</i>
 
 ### قائمة الإعدادات (6 خطوات)
 
