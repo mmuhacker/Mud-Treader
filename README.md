@@ -280,11 +280,12 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
               padding: 5px;">
   <br>
   <i style="color: var(--color-fg-default);">الشكل 4: توكن ميتا تريدر</i>
+  
+</div>
 
 ---
 
 ## 📱 شرح القوائم
-</div>
 
 **الصفحة الرئيسية**
 
