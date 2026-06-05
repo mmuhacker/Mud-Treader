@@ -208,19 +208,83 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 
 ● المشكلة: pkg: command not found
 ○ الحل: تأكد من تثبيت Termux من F-Droid وليس من Google Play
+
 ● المشكلة: Connection reset by peer
-○ الحل: جرب تغيير المرآة:
+○ الحل: تغيير المرآة 👇:
 ```bash
 termux-change-repo
 ```
- ثم اختر Mirror group
-خطأ: Permission denied نفّذ termux-setup-storage وأعد تشغيل Termux
-خطأ: النص العربي معكوس ثبّت الخط العربي وأعد تشغيل Termux بالكامل
-خطأ: No module named 'rich' pip install rich
-خطأ: ModuleNotFoundError: No module named 'websocket' pip install websocket-client
-خطأ: pip: command not found pkg install python -y
-خطأ: tor: command not found pkg install tor -y
-خطأ: beep: command not found التنبيهات الصوتية اختيارية، يمكن تجاهلها
+ثم اختر Mirror group كما تلاحظ في الشكل التالي:<br>
+
+<div align="center">
+  
+📷 **تغيير المرآة**<br>
+<img src="images/15.png"
+width="80%"
+style="border-radius: 20px;
+border: 2px solid var(--color-border-default);
+background: var(--color-canvas-default);
+padding: 5px;">
+
+
+<i style="color: var(--color-fg-default);">الشكل 1: تغيير المرآة</i>
+
+</div>
+
+ثم قم بإختيار مرآة تكون قريبة من منطقتك كما تلاحظ في الشكل التالي:
+<div align="center">
+  
+📷 **تغيير منطقة المرآة**<br>
+<img src="images/15.png"
+width="80%"
+style="border-radius: 20px;
+border: 2px solid var(--color-border-default);
+background: var(--color-canvas-default);
+padding: 5px;">
+
+
+<i style="color: var(--color-fg-default);">الشكل 2: تغيير منطقة المرآة</i>
+
+</div>
+
+──────
+● المشكلة: Permission denied
+○ الحل: نفّذ هذا الأمر 👇:
+```bash
+termux-setup-storage
+```
+وأعد تشغيل Termux
+
+● المشكلة: النص العربي معكوس
+○ الحل: ثبّت الخط العربي وأمر التثبيت موجود في الأعلى وأعد تشغيل Termux بالكامل بعد إغلاقه من التطبيقات في الخلفية وطريقة الخروج منه كالتالي أكتب 
+```
+exit
+```
+ثم Enter سيغلق مباشرة وربما يطلب منك التأكيد بالضغط على Enter بعدها تقوم بإغلاقه من قائمة التطبيقات في الخلفية. 
+
+● المشكلة: No module named 'rich' 
+○ الحل: تثبيت rich 👇
+```bash
+pip install rich
+```
+●المشكلة: 
+ModuleNotFoundError: No modulenamed websocket
+○ الحل: تثبيت websocket-client 👇
+```bash
+pip install websocket-client
+```
+● المشكلة:  pip: command not found
+○ الحل: تثبيت بايثون 👇
+```bash
+pkg install python -y
+```
+● المشكلة: tor: command not found
+○ الحل: تثبيت tor 👇
+```bash
+pkg install tor -y
+```
+● المشكلة: beep: command not found 
+التنبيهات الصوتية اختيارية، يمكن تجاهلها
 خطأ: Killed أثناء التثبيت المساحة غير كافية، احذف ملفات غير ضرورية: pkg clean
 
 **Kali Linux**
