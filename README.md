@@ -291,6 +291,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 1 → تشغيل البوت
 2 → الإعدادات
 3 → إغلاق البرنامج
+
 <div align="center">
   
 📷 **الصفحة الرئيسية**<br>
