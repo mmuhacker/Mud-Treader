@@ -206,10 +206,14 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 
 </div>
 
-|#|المشكلة| الحل|
-|---|-----|-------|
-|خطأ: pkg: command not found| تأكد من تثبيت Termux من F-Droid وليس من Google Play|
-خطأ: Connection reset by peer جرب تغيير المرآة: termux-change-repo ثم اختر Mirror group
+● المشكلة: pkg: command not found
+○ الحل: تأكد من تثبيت Termux من F-Droid وليس من Google Play
+● المشكلة: Connection reset by peer
+○ الحل: جرب تغيير المرآة:
+```bash
+termux-change-repo
+```
+ ثم اختر Mirror group
 خطأ: Permission denied نفّذ termux-setup-storage وأعد تشغيل Termux
 خطأ: النص العربي معكوس ثبّت الخط العربي وأعد تشغيل Termux بالكامل
 خطأ: No module named 'rich' pip install rich
