@@ -147,7 +147,7 @@ ln -sf $`PREFIX/bin/mud_tr.py `$PREFIX/bin/tr
 
 ---
 
-<div align="center">
+<div align="center" id="التثبيت-على-kali-linux">
 
 ## 🐉 التثبيت على Kali Linux
 
@@ -198,7 +198,7 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 
 ---
 
-<div align="center">
+<div align="center" id="المشاكل-الشائعة-والحلول">
 
 ## ⚠️ المشاكل الشائعة والحلول
 
