@@ -160,8 +160,6 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 
 📸 **طلب مفتاح الترخيص**
   
-<div align="center">
-  
   <img src="images/01.png" 
        width="80%" 
        style="border-radius: 20px; 
@@ -230,8 +228,6 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 
 ---
 
-<div align="center">
-
 ***Binance***
 
 </div>
@@ -249,7 +245,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
   
 <div align="center">
   📷 **توكن بينانس**
-  <img src="images/05.png" 
+  <img src="images/06.png" 
        width="80%" 
        style="border-radius: 20px; 
               border: 2px solid var(--color-border-default);
@@ -268,6 +264,17 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 3. اختر تبويب **Server**
 4. انسخ رقم **Login**
 5. أدخله في البوت عند الطلب
+
+   <div align="center">
+  📷 **توكن ميتا تريدر**
+  <img src="images/07.png" 
+       width="80%" 
+       style="border-radius: 20px; 
+              border: 2px solid var(--color-border-default);
+              background: var(--color-canvas-default);
+              padding: 5px;">
+  <br>
+  <i style="color: var(--color-fg-default);">الشكل 1: توكن ميتا تريدر</i>
 
 ---
 
