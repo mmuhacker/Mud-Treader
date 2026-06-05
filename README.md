@@ -129,7 +129,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 *الشكل 1: واجهة طلب مفتاح الترخيص*
 
 <div align="center">
-  <img src="images/screenshot.png" 
+  <img src="images/01.png" 
        width="80%" 
        style="border-radius: 20px; 
               border: 2px solid var(--color-border-default);
