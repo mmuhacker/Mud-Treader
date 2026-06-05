@@ -157,11 +157,9 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
   <br>
   <i style="color: var(--color-fg-default);">الشكل 1: طلب مفتاح الترخيص</i>
 
-</div>
 
----
   
-**مميزات النظام:**
+**مميزات نظام الترخيص:**
 
 </div>
 
