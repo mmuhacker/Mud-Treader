@@ -50,6 +50,7 @@
 <div align="center">
 
 ## ✨ المميزات
+</div>
 
 - 🔗 **4 منصات تداول** مدعومة (Deriv, Binance, MetaTrader 5, TradingView Webhook)
 - 💱 **دعم 11 عملة دولية** لعرض الرصيد والأرباح (USD, EUR, GBP, JOD, AED, SAR, QAR, KWD, BHD, EGP, TRY)
@@ -65,7 +66,8 @@
 - 🖥️ **يعمل على Termux (Android) و Kali Linux**
 
 ───
-
+<div align="center">
+  
 ## ✅ متطلبات التشغيل
 
 
