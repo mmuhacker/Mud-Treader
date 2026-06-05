@@ -244,7 +244,9 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 **ملاحظة: احفظ الـ Secret Key فوراً لأنه لن يظهر مجدداً**
   
 <div align="center">
+  
   📷 **توكن بينانس**
+  
   <img src="images/06.png" 
        width="80%" 
        style="border-radius: 20px; 
@@ -281,9 +283,8 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 
 ---
 
-<div align="center">
-  
 ## 📱 شرح القوائم
+</div>
 
 ### الصفحة الرئيسية
 
@@ -292,7 +293,8 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 3 → إغلاق البرنامج
 <div align="center">
   
-<div align="center">
+📷 **الصفحة الرئيسية**<br>
+
   <img src="images/02.png" 
        width="80%" 
        style="border-radius: 20px; 
@@ -300,7 +302,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
               background: var(--color-canvas-default);
               padding: 5px;">
   <br>
-  <i style="color: var(--color-fg-default);">الشكل 1: طلب مفتاح الترخيص</i>
+  <i style="color: var(--color-fg-default);">الشكل 1: الصفحة الرئيسية</i>
 
 ### قائمة الإعدادات (6 خطوات)
 
