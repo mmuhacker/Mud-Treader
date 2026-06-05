@@ -52,7 +52,7 @@
 ## ✨ المميزات
 
 | الفئة | الميزات |
-|-------|-----------|
+|---|-------|-----------|
 
 | 🔗 **المنصات** | Deriv, Binance, MetaTrader 5, TradingView Webhook |
 | 💱 **العملات** | 11 عملة دولية (USD, EUR, GBP, JOD, AED, SAR, QAR, KWD, BHD, EGP, TRY) |
