@@ -214,7 +214,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 
 <div align="center">
 
-📷 **طلب توكن ديريف**
+📷 **توكن ديريف**
   
   <img src="images/04.png" 
        width="80%" 
@@ -252,7 +252,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
               background: var(--color-canvas-default);
               padding: 5px;">
   <br>
-  <i style="color: var(--color-fg-default);">الشكل 1: توكن بينانس</i>
+  <i style="color: var(--color-fg-default);">الشكل 3: توكن بينانس</i>
   
 ---
 
@@ -267,7 +267,9 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 5. أدخله في البوت عند الطلب
 
    <div align="center">
+   
   📷 **توكن ميتا تريدر**
+  
   <img src="images/07.png" 
        width="80%" 
        style="border-radius: 20px; 
@@ -275,7 +277,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
               background: var(--color-canvas-default);
               padding: 5px;">
   <br>
-  <i style="color: var(--color-fg-default);">الشكل 1: توكن ميتا تريدر</i>
+  <i style="color: var(--color-fg-default);">الشكل 4: توكن ميتا تريدر</i>
 
 ---
 
