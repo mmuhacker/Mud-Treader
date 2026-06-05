@@ -120,13 +120,15 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
   
 [![Contact Us](https://img.shields.io/badge/%EF%BA%97%EF%BB%A4%EF%BA%8D%EF%BA%BB%EF%BB%A0%20%EF%BB%A3%EF%BB%8C%EF%BB%A8%EF%BA%8E-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
 
-## 📸 واجهة الأداة
+📸 واجهة الأداة
 
 <div align="center">
   
 ![واجهة الأداة الرئيسية](images/01.png)
 
 *الشكل 1: القائمة الرئيسية للأداة*
+
+<img src="images/01.png" width="80%" style="border-radius: 20px; border: 2px solid var(--color-border-default); box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
 
 </div>
 
