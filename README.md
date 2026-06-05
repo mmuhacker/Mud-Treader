@@ -519,6 +519,8 @@ Ctrl + C → فتح قائمة التحكم
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 المطور
 
 **Muhannad Daher**
