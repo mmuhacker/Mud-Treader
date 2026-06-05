@@ -286,10 +286,10 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 ## 📱 شرح القوائم
 </div>
 
-### الصفحة الرئيسية
+**الصفحة الرئيسية**
 
-1 → تشغيل البوت
-2 → الإعدادات
+1 → تشغيل البوت<br>
+2 → الإعدادات<br>
 3 → إغلاق البرنامج
 
 <div align="center">
