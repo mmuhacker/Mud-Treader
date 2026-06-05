@@ -27,7 +27,7 @@
 - [التثبيت](#التثبيت)
   - [التثبيت على 🤖 Termux](#-التثبيت-على-Termux)
   - [التثبيت على 🐉 Kali Linux](#التثبيت-على-kali-linux)
-- [المشاكل الشائعة والحلول](#-المشاكل-والحلول-الشائعة)
+- [المشاكل الشائعة والحلول](#-المشاكل-الشائعة-#-المشاكل-الشائعة-والحلولكل-الشائعة-الشائعة)
 • التشغيل
 • تحديث الأداة
 • التثبيت بأمر واحد
@@ -84,6 +84,7 @@
 
 ---
 <div align="center" id="التثبيت">
+  
 ## ⚡️ التثبيت
 
 
@@ -91,107 +92,111 @@
 
 </div>
 
-الخطوة 1 — تحديث النظام
-bash
+**الخطوة 1** — *تحديث النظام والمكتبات*
+```bash
 pkg update && pkg upgrade -y
+```
 
 
-الخطوة 2 — تثبيت Python والمكتبات الأساسية
+**الخطوة 2** — *تثبيت Python والمكتبات الأساسية*
 
-bash
+```bash
 pkg install python curl tor -y
+```
 
 
-الخطوة 3 — تثبيت مجلد الخطوط
+**الخطوة 3** — *إنشاء مجلد الخطوط*
 
-bash
+```bash
 mkdir -p ~/.termux
+```
 
 
-الخطوة 4 — تثبيت الخط العربي
+**الخطوة 4** — *تثبيت الخط العربي*
 
-bash
+```bash
 curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc-VaA.ttf" -o ~/.termux/font.ttf && termux-reload-settings
+```
 
+⚠️ **هام:**  *بعد تثبيت الخط، أغلق Termux بالكامل من قائمة التطبيقات في الخلفية وأعد فتحه*
 
-⚠️ هام: بعد تثبيت الخط، أغلق Termux بالكامل من قائمة التطبيقات وأعد فتحه
+**الخطوة 5** — *تثبيت مكتبات Python*
 
-الخطوة 5 — تثبيت مكتبات Python
-
-bash
+```bash
 pip install websocket-client rich arabic-reshaper python-bidi
+```
 
 
-الخطوة 6 — تنزيل الأداة
+**الخطوة 6** — *تنزيل الأداة*
 
-bash
+```bash
 curl -o $`PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py
+```
 
+**الخطوة 7** — *إعطاء صلاحية التشغيل*
 
-الخطوة 7 — إعطاء صلاحية التشغيل
-
-bash
+```bash
 chmod +x `$PREFIX/bin/mud_tr.py
+```
 
+**الخطوة 8** — *إنشاء اختصار*
 
-الخطوة 8 — إنشاء اختصار
-
-bash
+```bash
 ln -sf $`PREFIX/bin/mud_tr.py `$PREFIX/bin/tr
+```
 
-
-───
+---
 
 <div align="center">
 
-🐉 التثبيت على Kali Linux
+## 🐉 التثبيت على Kali Linux
 
 </div>
 
-الخطوة 1 — تحديث النظام
+**الخطوة 1** — *تحديث النظام*
 
-bash
+```bash
 sudo apt update && sudo apt upgrade -y
+```
 
+**الخطوة 2** — *تثبيت Python والمكتبات*
 
-الخطوة 2 — تثبيت Python والمكتبات
-
-bash
+```bash
 sudo apt install python3 python3-pip beep -y
+```
 
+**الخطوة 3** — *تثبيت مكتبات Python*
 
-الخطوة 3 — تثبيت مكتبات Python
-
-bash
+```bash
 pip3 install websocket-client rich arabic-reshaper python-bidi
+```
 
+**ملاحظة: إذا ظهر خطأ externally-managed-environment، استخدم:**
 
-ملاحظة: إذا ظهر خطأ externally-managed-environment، استخدم:
-
-bash
+```bash
 pip3 install websocket-client rich arabic-reshaper python-bidi --break-system-packages
+```
 
+**الخطوة 4** — *تنزيل الأداة*
 
-الخطوة 4 — تنزيل الأداة
-
-bash
+```bash
 cd ~
 curl -o mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py
+```
 
+**الخطوة 5** — *إعطاء صلاحية التشغيل*
 
-الخطوة 5 — إعطاء صلاحية التشغيل
-
-bash
+```bash
 chmod +x mud_tr.py
+```
 
+**الخطوة 6** — *إنشاء اختصار*
 
-الخطوة 6 — إنشاء اختصار
-
-bash
+```bash
 sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
+```
 
-
-───
+---
 
 <div align="center">
 
@@ -201,8 +206,9 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 
 </div>
 
-المشكلة الحل
-خطأ: pkg: command not found تأكد من تثبيت Termux من F-Droid وليس من Google Play
+|#|المشكلة| الحل|
+|---|-----|-------|
+|خطأ: pkg: command not found| تأكد من تثبيت Termux من F-Droid وليس من Google Play|
 خطأ: Connection reset by peer جرب تغيير المرآة: termux-change-repo ثم اختر Mirror group
 خطأ: Permission denied نفّذ termux-setup-storage وأعد تشغيل Termux
 خطأ: النص العربي معكوس ثبّت الخط العربي وأعد تشغيل Termux بالكامل
