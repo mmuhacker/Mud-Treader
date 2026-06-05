@@ -13,7 +13,7 @@
 
 ![Author](https://img.shields.io/badge/mmuhacker-%EF%BA%8D%EF%BB%9F%EF%BB%A4%EF%BB%84%EF%BB%AE%D8%B1-blue?style=for-the-badge&logo=github)<br>
 
-[![Author](https://img.shields.io/badge/mmuhacker-%EF%BA%8D%EF%BB%9F%EF%BB%A4%EF%BB%84%EF%BB%AE%D8%B1-red?style=flat-for-the-badge&logo=github)](https://github.com/mmuhacker)<br>
+[![Author](https://img.shields.io/badge/mmuhacker-%EF%BA%8D%EF%BB%9F%EF%BB%A4%EF%BB%84%EF%BB%AE%D8%B1-red?style=for-the-badge&logo=github)](https://github.com/mmuhacker)<br>
 ![License](https://img.shields.io/badge/%EF%BA%97%EF%BA%A0%EF%BA%8E%EF%BA%AD%D9%8A-%EF%BA%8D%EF%BB%9F%EF%BA%98%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA-red?style=for-the-badge)<br>
 ![Status](https://img.shields.io/badge/%EF%BB%A7%EF%BA%B8%EF%BB%82-%EF%BA%8D%EF%BB%9F%EF%BA%A4%EF%BA%8E%EF%BB%9F%EF%BA%94-blue?style=for-the-badge)
 
