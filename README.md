@@ -124,10 +124,6 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 
 <div align="center">
   
-![واجهة الأداة الرئيسية](images/01.png)
-
-*الشكل 1: واجهة طلب مفتاح الترخيص*
-
 <div align="center">
   <img src="images/01.png" 
        width="80%" 
@@ -136,12 +132,11 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
               background: var(--color-canvas-default);
               padding: 5px;">
   <br>
-  <i style="color: var(--color-fg-default);">الشكل 1: واجهة الأداة</i>
-</div>
+  <i style="color: var(--color-fg-default);">الشكل 1: طلب مفتاح الترخيص</i>
 
 </div>
 
-
+---
   
 **مميزات النظام:**
 
