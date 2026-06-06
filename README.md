@@ -28,23 +28,23 @@
   - [التثبيت على 🤖 Termux](#-التثبيت-على-Termux)
   - [التثبيت على 🐉 Kali Linux](#التثبيت-على-kali-linux)
 - [المشاكل الشائعة والحلول](#المشاكل-الشائعة-والحلول)
-• التشغيل
-• تحديث الأداة
-• التثبيت بأمر واحد
-• نظام الترخيص
-• المنصات المدعومة
-• استخراج التوكن
-• شرح القوائم
-• الفريم الزمني
-• الأسواق المتاحة
-• الاستراتيجيات
-• قوة الإشارة
-• لوحة التحكم
-• اختصار التشغيل
-• دعم العملات المتعددة
-• أخبار السوق
-• التنبيهات الصوتية
-• المطور
+- [التشغيل](#-التشغيل)
+- [تحديث الأداة](#-تحديث-الأداة)
+- [التثبيت بأمر واحد](#-التثبيت-بأمر-واحد)
+- [نظام الترخيص](#-نظام-الترخيص)
+- [المنصات المدعومة](#-المنصات-المدعومة)
+- [إستخراج التوكن](#-إستخراج-التوكن)
+- [شرح القوائم](#-شرح-القوائم)
+- [الفريم الزمني](#-الفريم-الزمني)
+- [الأسواق المتاحة](#-الأسواق-المتاحة)
+- [الإستراتيجيات](#-الإستراتيجيات)
+- [قوة الإشارة](#-قوة-الإشارة)
+- [لوحة التحكم](#-لوحة-التحكم)
+- [اختصار التشغيل](#-إختصار-التشغيل)
+- [دعم العملات المتعددة](#-دعم-العملات-المتعددة)
+- [أخبار السوق](#-أخبار-السوق)
+- [التنبيهات الصوتية](#-التنبيهات-الصوتية)
+- [المطور](#-المطور)
 
 ───
 
@@ -207,9 +207,11 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 </div>
 
 ● المشكلة: pkg: command not found
+
 ○ الحل: تأكد من تثبيت Termux من F-Droid وليس من Google Play
 
 ● المشكلة: Connection reset by peer
+
 ○ الحل: تغيير المرآة 👇:
 ```bash
 termux-change-repo
@@ -249,6 +251,7 @@ padding: 5px;">
 
 ──────
 ● المشكلة: Permission denied
+
 ○ الحل: نفّذ هذا الأمر 👇:
 ```bash
 termux-setup-storage
@@ -256,29 +259,34 @@ termux-setup-storage
 وأعد تشغيل Termux
 
 ● المشكلة: النص العربي معكوس
+
 ○ الحل: ثبّت الخط العربي وأمر التثبيت موجود في الأعلى وأعد تشغيل Termux بالكامل بعد إغلاقه من التطبيقات في الخلفية وطريقة الخروج منه كالتالي أكتب 
 ```
 exit
 ```
 ثم Enter سيغلق مباشرة وربما يطلب منك التأكيد بالضغط على Enter بعدها تقوم بإغلاقه من قائمة التطبيقات في الخلفية. 
 
-● المشكلة: No module named 'rich' 
+● المشكلة: No module named rich
+
 ○ الحل: تثبيت rich 👇
 ```bash
 pip install rich
 ```
-●المشكلة: 
+● المشكلة: 
 ModuleNotFoundError: No modulenamed websocket
+
 ○ الحل: تثبيت websocket-client 👇
 ```bash
 pip install websocket-client
 ```
 ● المشكلة:  pip: command not found
+
 ○ الحل: تثبيت بايثون 👇
 ```bash
 pkg install python -y
 ```
 ● المشكلة: tor: command not found
+
 ○ الحل: تثبيت tor 👇
 ```bash
 pkg install tor -y
@@ -289,57 +297,63 @@ pkg install tor -y
 
 **Kali Linux**
 
-المشكلة الحل
-externally-managed-environment استخدم --break-system-packages
+● المشكلة: externally-managed-environment
+○ الحل: إستخدم --> break-system-packages بهذا الشكل 👇:
+```bash
 pip3: command not found sudo apt install python3-pip -y
 ModuleNotFoundError pip3 install <module_name> --break-system-packages
-الخط العربي لا يعمل sudo apt install fonts-noto-core -y
+```
 
-───
+● المشكلة: الخط العربي لا يعمل )متقطع ومعكوس
+○ الحل: نفذ هذا 👇
+```bash
+sudo apt install fonts-noto-core -y
+```
+---
 
 <div align="center">
 
-🚀 التشغيل
+## 🚀 التشغيل
 
 </div>
 
 بالاختصار (تم إعداده مسبقاً)
 
-bash
+```bash
 tr
-
+```
 
 أو بالأمر الكامل (Termux)
 
-bash
+```bash
 python $`PREFIX/bin/mud_tr.py
+```
 
+أو بالأمر الكامل (Kali Linux)
 
-أو بالأمر الكامل (Kali)
-
-bash
+```bash
 python3 ~/mud_tr.py
-
+```
 
 ───
 
 <div align="center">
 
-🔄 تحديث الأداة
+## 🔄 تحديث الأداة
 
 </div>
 
-Termux:
+**Termux:**
 
-bash
-curl -o `$PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $`PREFIX/bin/mud_tr.py
+```bash
+curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $`PREFIX/bin/mud_tr.py
+```
 
+**Kali Linux:**
 
-Kali Linux:
-
-bash
+```bash
 cd ~ && curl -o mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x mud_tr.py
-
+```
 
 ───
 
@@ -349,11 +363,11 @@ cd ~ && curl -o mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treade
 
 </div>
 
-bash
+```bash
 pkg update && pkg upgrade -y && pkg install python curl -y && pip install websocket-client rich arabic-reshaper python-bidi && curl -o `$PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $`PREFIX/bin/mud_tr.py && ln -sf `$PREFIX/bin/mud_tr.py $`PREFIX/bin/tr && mkdir -p ~/.termux && curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc-VaA.ttf" -o ~/.termux/font.ttf && termux-reload-settings && echo "تم تثبيت Mud-Treader (tr) والخط العربي بنجاح!"
+```
 
-
-───
+---
 
 <div align="center">
 
@@ -405,7 +419,7 @@ padding: 5px;">
 
 ───
 
-## 🔐 استخراج التوكن
+## 🔐 إستخراج التوكن
 
 **Deriv**
 
@@ -623,7 +637,7 @@ padding: 5px;">
 
 ───
 
-## 🎯 الاستراتيجيات
+## 🎯 الإستراتيجيات
 
 |#|الاستراتيجية |الوصف|
 |---|------|----------|
@@ -635,7 +649,7 @@ padding: 5px;">
 
 ───
 
-##💪 قوة الإشارة
+## 💪 قوة الإشارة
 
 |#|النسبة| الوصف|
 |---|----|--------|
