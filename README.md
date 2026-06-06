@@ -54,8 +54,7 @@
 | الفئة | الميزات |
 |-------|---------|
 | 🔗 **المنصات** | Deriv, Binance, MetaTrader 5, TradingView Webhook |
-| 💱 **العملات 21 عملة متنوعة**|USD,EUR,GBP,JOD,AED,SAR,QAR
-KWD,BHD,OMR,YER,SDG,DZD,LYD,TND,MAD,IQD,SYP,LBP,EGP,TRY|
+| 💱 **العملات**|يدعم البوت 21 عملة متنوعة |
 | 🎯 **الاستراتيجيات** | RSI+MA, MACD, Bollinger Bands, دعم/مقاومة, مجمّع |
 | 📊 **قوة الإشارة** | 4 مستويات (65%-80%) |
 | 🔊 **التنبيهات** | صوتية للإشارات والأرباح والخسائر |
