@@ -899,6 +899,7 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 - الترخيص: تجاري<br>
 
 ---
+
 <div align="center">
 
 **Madarik Tools — صُنع بالعربية**
