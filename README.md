@@ -54,7 +54,7 @@
 | الفئة | الميزات |
 |-------|---------|
 | 🔗 **المنصات** | Deriv, Binance, MetaTrader 5, TradingView Webhook |
-| 💱 **العملات 21 عملةمتنوعة|USD,EUR,GBP,JOD,AED,SAR,QAR
+| 💱 **العملات 21 عملة متنوعة**|USD,EUR,GBP,JOD,AED,SAR,QAR
 KWD,BHD,OMR,YER,SDG,DZD,LYD,TND,MAD,IQD,SYP,LBP,EGP,TRY|
 | 🎯 **الاستراتيجيات** | RSI+MA, MACD, Bollinger Bands, دعم/مقاومة, مجمّع |
 | 📊 **قوة الإشارة** | 4 مستويات (65%-80%) |
