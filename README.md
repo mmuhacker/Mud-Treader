@@ -33,6 +33,7 @@
 - [نظام الترخيص](#-نظام-الترخيص)
 - [المنصات المدعومة](#-المنصات-المدعومة)
 - [إستخراج التوكن](#-إستخراج-التوكن)
+- [إنشاء سيرفر Webhook](#-إنشاء-سيرفر-webhook)
 - [شرح القوائم](#-شرح-القوائم)
 - [الفريم الزمني](#-الفريم-الزمني)
 - [الأسواق المتاحة](#-الأسواق-المتاحة)
@@ -392,7 +393,7 @@ background: var(--color-canvas-default);
 padding: 5px;">
 
 
-<i style="color: var(--color-fg-default);">الشكل 1: مفتاح الترخيص</i>
+<i style="color: var(--color-fg-default);">الشكل 3: مفتاح الترخيص</i>
 
 **مميزات نظام الترخيص:**
 
@@ -446,7 +447,7 @@ background: var(--color-canvas-default);
 padding: 5px;">
 
 
-<i style="color: var(--color-fg-default);">الشكل 2: توكن ديريف</i>
+<i style="color: var(--color-fg-default);">الشكل 4: توكن ديريف</i>
 
 ───
 
@@ -477,7 +478,7 @@ background: var(--color-canvas-default);
 padding: 5px;">
 
 
-<i style="color: var(--color-fg-default);">الشكل 3: توكن بينانس</i>
+<i style="color: var(--color-fg-default);">الشكل 5: توكن بينانس</i>
 
 ───
 
@@ -503,13 +504,87 @@ background: var(--color-canvas-default);
 padding: 5px;">
 
 
-<i style="color: var(--color-fg-default);">الشكل 4: توكن ميتا تريدر</i>
+<i style="color: var(--color-fg-default);">الشكل 6: توكن ميتا تريدر</i>
 
 ───
+## 🔧 خطوات إنشاء سيرفر Webhook
+**منصة TradingView**
 
-## 📱 شرح القوائم
+
+markdown
+## 📡 إعداد TradingView Webhook
+
+**ما هو Webhook؟**
+لنعرف مهو Webhook هي طريقة لإرسال الإشارات من TradingView مباشرة إلى البوت الخاص بك عبر الإنترنت.
+
+**خطوات الإعداد:**
+
+**الخطوة 1:** *تثبيت Ngrok (لإنشاء رابط عام)*
+
+**Termux**
+```bash
+pkg install ngrok -y
+```
+<br>
+**Kali Linux**
+
+```bash
+sudo apt install ngrok -y
+```
+
+**الخطوة 2:** *تشغيل البوت في وضع Webhook*
+```bash
+tr
+```
+**اختر المنصة 4 (TradingView Webhook)**
+
+**الخطوة 3: تشغيل Ngrok في نافذة جديدة**
+```bash
+ngrok http 5000
+```
+
+ستحصل على رابط مثل: https://abc123.ngrok.io
+
+**الخطوة 4:** *إعداد التنبيه في TradingView*
+
+1. افتح TradingView وأضف تنبيهاً (Alert)
+2. اختر Webhook URL
+3. أدخل رابط Ngrok متبوعاً بـ /webhook  بهذه الطريقة 👇
+   https://abc123.ngrok.io/webhook
+   <div align="center">
+
+📷 **رابط السيرفر**
+
+<img src="images/09.png"
+width="80%"
+style="border-radius: 20px;
+border: 2px solid var(--color-border-default);
+background: var(--color-canvas-default);
+padding: 5px;">
+
+
+<i style="color: var(--color-fg-default);">الشكل 7: رابط السيرفر</i>
 
 </div>
+
+
+5. في حقل Message، أرسل البيانات بصيغة JSON:
+```json
+{
+  "signal": "CALL",
+  "price": "{{close}}"
+}
+```
+**تنسيق الإشارات المقبولة**
+
+|الإشارة |النوع |الوصف|
+|----|----|--------|
+|CALL|شراء|توقع إرتفاع السعر|
+|PUT| بيع|توقع إنخفاض السعر|
+
+
+⚠️ ملاحظة: حساب TradingView Pro مطلوب لإرسال Webhooks
+---
 
 الصفحة الرئيسية
 
