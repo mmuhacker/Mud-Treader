@@ -68,7 +68,6 @@
 | 🖥️| **البيئة** | Termux (Android) + Kali Linux |
 
 ---
-<div align="center">
   
 ## ✅ متطلبات التشغيل
 
@@ -361,23 +360,20 @@ cd ~ && curl -o mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treade
 
 ⚡ التثبيت بأمر واحد (Termux)
 
-</div>
-
 ```bash
 pkg update && pkg upgrade -y && pkg install python curl -y && pip install websocket-client rich arabic-reshaper python-bidi && curl -o `$PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $`PREFIX/bin/mud_tr.py && ln -sf `$PREFIX/bin/mud_tr.py $`PREFIX/bin/tr && mkdir -p ~/.termux && curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc-VaA.ttf" -o ~/.termux/font.ttf && termux-reload-settings && echo "تم تثبيت Mud-Treader (tr) والخط العربي بنجاح!"
 ```
 
 ---
 
-<div align="center">
-
 ## 🔑 نظام الترخيص
 
 </div>
 
-عند أول تشغيل يطلب البوت مفتاح ترخيص.
+**عند أول تشغيل يطلب البوت مفتاح ترخيص.**
 
-للحصول على مفتاح: تواصل مع المطور.
+**للحصول على مفتاح: تواصل مع المطور.**
+
 
 <div align="center">
 
@@ -451,7 +447,7 @@ padding: 5px;">
 
 ───
 
-Binance
+**Binance**
 
 </div>
 
@@ -550,7 +546,9 @@ ngrok http 5000
 1. افتح TradingView وأضف تنبيهاً (Alert)
 2. اختر Webhook URL
 3. أدخل رابط Ngrok متبوعاً بـ /webhook  بهذه الطريقة 👇
+4. 
    https://abc123.ngrok.io/webhook
+   
    <div align="center">
 
 📷 **رابط السيرفر**
@@ -766,13 +764,13 @@ padding: 5px;">
 
 ───
 
-<div align="center">
+<div align="center" id="دعم-العملات-المتعددة">
 
-💱 دعم العملات المتعددة
+## 💱 دعم العملات المتعددة
 
 </div>
 
-يدعم البوت 21 عملة لعرض الرصيد والأرباح:
+**يدعم البوت 21 عملة لعرض الرصيد والأرباح:**
 
 <div align="center">
 
@@ -802,7 +800,8 @@ padding: 5px;">
 
 </div>
 
-💡 لتغيير العملة: أثناء إدخال التوكن، اضغط c ثم اختر رقم العملة من القائمة
+💡 **لتغيير العملة: أثناء إدخال التوكن، اضغط c ثم اختر رقم العملة من القائمة**
+💡 **يتم تحديث أسعار الصرف عن طريق "ExchangeRate-API"**
 
 ───
 
