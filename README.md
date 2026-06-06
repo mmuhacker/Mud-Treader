@@ -46,7 +46,7 @@
 - [التنبيهات الصوتية](#-التنبيهات-الصوتية)
 - [المطور](#-المطور)
 
-───
+---
 
 <div align="center">
 
@@ -248,7 +248,7 @@ padding: 5px;">
 
 </div>
 
-──────
+---
 ● المشكلة: Permission denied
 
 ○ الحل: نفّذ هذا الأمر 👇:
@@ -308,6 +308,7 @@ ModuleNotFoundError pip3 install <module_name> --break-system-packages
 ```bash
 sudo apt install fonts-noto-core -y
 ```
+
 ---
 
 <div align="center">
@@ -334,7 +335,7 @@ python $`PREFIX/bin/mud_tr.py
 python3 ~/mud_tr.py
 ```
 
-───
+---
 
 <div align="center">
 
@@ -354,7 +355,7 @@ curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Tr
 cd ~ && curl -o mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x mud_tr.py
 ```
 
-───
+---
 
 <div align="center">
 
@@ -400,7 +401,7 @@ padding: 5px;">
 - ✅ يتوقف تلقائياً عند انتهاء الصلاحية
 - ✅ 3 محاولات إدخال فقط
 
-───
+---
 
 <div align="center">
 
@@ -413,7 +414,7 @@ padding: 5px;">
 |3|MetaTrader 5| فوركس + ذهب + نفط + مؤشرات|9 أسواق|
 |4|TradingView Webhook|إشارات خارجية|5 أسواق|
 
-───
+---
 
 ## 🔐 إستخراج التوكن
 
@@ -445,7 +446,7 @@ padding: 5px;">
 
 <i style="color: var(--color-fg-default);">الشكل 4: توكن ديريف</i>
 
-───
+---
 
 **Binance**
 
@@ -476,7 +477,7 @@ padding: 5px;">
 
 <i style="color: var(--color-fg-default);">الشكل 5: توكن بينانس</i>
 
-───
+---
 
 **MetaTrader 5**
 
@@ -502,7 +503,7 @@ padding: 5px;">
 
 <i style="color: var(--color-fg-default);">الشكل 6: توكن ميتا تريدر</i>
 
-───
+---
 ## 🔧 خطوات إنشاء سيرفر Webhook
 **منصة TradingView**
 
@@ -546,7 +547,7 @@ ngrok http 5000
 1. افتح TradingView وأضف تنبيهاً (Alert)
 2. اختر Webhook URL
 3. أدخل رابط Ngrok متبوعاً بـ /webhook  بهذه الطريقة 👇
-4. 
+   
    https://abc123.ngrok.io/webhook
    
    <div align="center">
@@ -607,7 +608,7 @@ padding: 5px;">
 
 </div>
 
-───
+---
 
 <div align="center">
 
@@ -637,7 +638,7 @@ padding: 5px;">
 3 → إغلاق البرنامج
 
 
-───
+---
 
 <div align="center">
   
@@ -657,7 +658,7 @@ padding: 5px;">
 |4 |30 دقيقة| ~13 ساعة| محافظ - دقة عالية|
 |5 |ساعة |~27 ساعة |آمن جداً - دقة عالية جداً|
 
-───
+---
 
 ## 📍 الأسواق المتاحة
 
@@ -675,7 +676,7 @@ padding: 5px;">
 |8 |مؤشر تقلب 75| مؤشرات|
 |9| مؤشر تقلب 50| مؤشرات|
 
-───
+---
 
 **Binance**
 
@@ -691,7 +692,7 @@ padding: 5px;">
 |8| MATIC/USDT| كريبتو|
 |9| LTC/USDT| كريبتو|
 
-───
+---
 
 **MetaTrader 5**
 
@@ -707,7 +708,7 @@ padding: 5px;">
 |8| النفط الخام| سلع|
 |9 |داو جونز| مؤشرات|
 
-───
+---
 
 ## 🎯 الإستراتيجيات
 
@@ -719,7 +720,7 @@ padding: 5px;">
 |4| دعم ومقاومة| أعلى وأدنى سعر في 20 شمعة|
 |5 |مجمّع ⭐ |كل الاستراتيجيات معاً - الأدق|
 
-───
+---
 
 ## 💪 قوة الإشارة
 
@@ -730,7 +731,7 @@ padding: 5px;">
 |3 |75% |محافظ - صفقات أقل، دقة عالية|
 |4 |80%| آمن جداً - صفقات نادرة، دقة عالية جداً|
 
-───
+---
 
 ## 📊 لوحة التحكم
 
@@ -748,7 +749,7 @@ padding: 5px;">
 |💪 قوة الإشارة| شريط من 0% إلى 100%|
 💵 السعر| السعر الفوري المباشر|
 
-───
+---
 
 ## ألوان الإشارة
 
@@ -762,7 +763,7 @@ padding: 5px;">
 
 </div>
 
-───
+---
 
 <div align="center" id="دعم-العملات-المتعددة">
 
@@ -803,7 +804,7 @@ padding: 5px;">
 💡 **لتغيير العملة: أثناء إدخال التوكن، اضغط c ثم اختر رقم العملة من القائمة**<br>
 💡 **يتم تحديث أسعار الصرف عن طريق "ExchangeRate-API"**
 
-───
+---
 
 <div align="center">
 
@@ -819,7 +820,7 @@ padding: 5px;">
 
 📌 يتم تحديث الأخبار تلقائياً كل دقيقة
 
-───
+---
 
 <div align="center">
 
@@ -833,7 +834,7 @@ padding: 5px;">
 
 </div>
 
-───
+---
 
 <div align="center">
 
@@ -855,13 +856,13 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 
 للتشغيل: اكتب tr واضغط Enter
 
-───
+---
 
 ⚠️ تنبيه
 
 ⚠️ التداول ينطوي على مخاطر عالية. لا تستثمر أكثر مما تستطيع تحمل خسارته. هذه الأداة لأغراض تعليمية فقط.
 
-───
+---
 
 <div align="center">
 
@@ -875,14 +876,14 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 
 </div>
 
-───
+---
 
 · بوت التداول الذكي
 · البيئة: Termux (Android) / Kali Linux
 · الإصدار: v2.0
 · الترخيص: تجاري
 
-───
+---
 <div align="center">
 
 **Madarik Tools — صُنع بالعربية**
