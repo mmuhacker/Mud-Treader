@@ -879,7 +879,7 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 
 ---
 
-<div align="center">
+<div align="center" id="المطور">
 
 ## 👨‍💻 المطور
 
