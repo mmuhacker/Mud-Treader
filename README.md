@@ -510,7 +510,9 @@ padding: 5px;">
 
 ---
 <div align="center" id="إعداد-سيرفر-ويب-هوك">
+  
 ## 🔧 خطوات إنشاء سيرفر Webhook
+
 **منصة TradingView**
 
 
