@@ -853,7 +853,7 @@ padding: 5px;">
 
 <div align="center">
 
-## 🔧 اختصار التشغيل
+## 🔧 إختصار التشغيل
 
 Termux:
 
