@@ -547,15 +547,20 @@ tr
 ngrok http 5000
 ```
 
-ستحصل على رابط مثل: https://abc123.ngrok.io
+ستحصل على رابط مثل: 
+```
+https://abc123.ngrok.io
+```
 
 **الخطوة 4:** *إعداد التنبيه في TradingView*
 
 1. افتح TradingView وأضف تنبيهاً (Alert)
 2. اختر Webhook URL
 3. أدخل رابط Ngrok متبوعاً بـ /webhook  بهذه الطريقة 👇
-   
+
+   ```
    https://abc123.ngrok.io/webhook
+   ```
    
    <div align="center">
 
@@ -591,8 +596,11 @@ padding: 5px;">
 
 ⚠️ ملاحظة: حساب TradingView Pro مطلوب لإرسال Webhooks
 ---
+<div align="center" id="شرح-القوائم">
+  
+## ⚡️ شرح القوائم
 
-الصفحة الرئيسية
+**الصفحة الرئيسية**
 
 1 → تشغيل البوت<br>
 2 → الإعدادات<br>
