@@ -632,7 +632,7 @@ background: var(--color-canvas-default);
 padding: 5px;">
 
 
-<i style="color: var(--color-fg-default);">الشكل 5: الصفحة الرئيسية</i>
+<i style="color: var(--color-fg-default);">الشكل 8: الصفحة الرئيسية</i>
 
 </div>
 
@@ -853,7 +853,7 @@ background: var(--color-canvas-default);
 padding: 5px;">
 
 
-<i style="color: var(--color-fg-default);">الشكل 6: حاسبة العملات المدمجة</i>
+<i style="color: var(--color-fg-default);">الشكل 9: حاسبة العملات المدمجة</i>
 
 </div>
 
