@@ -384,7 +384,7 @@ pkg update && pkg upgrade -y && pkg install python curl -y && pip install websoc
 <div align="center">
 
 
-[![Contact Us](https://img.shields.io/badge/%EF%BA%97%EF%BB%A4%EF%BA%8D%EF%BA%BB%EF%BB%A0%20%EF%BB%A3%EF%BB%8C%EF%BB%A8%EF%BA%8E-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
+[![Contact Us](https://img.shields.io/badge/%EF%BA%97%EF%BB%A4%EF%BA%8D%EF%BA%BB%EF%BB%A0%20%EF%BB%A3%EF%BB%8C%EF%BB%A8%EF%BA%8E-red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
 
 
 📸 طلب مفتاح الترخيص
