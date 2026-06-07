@@ -133,23 +133,19 @@ pip install websocket-client rich arabic-reshaper python-bidi
 
 
 **الخطوة 6** — *تنزيل الأداة*
-
 ```bash
-curl -o $`PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py
+curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py
 ```
 
 **الخطوة 7** — *إعطاء صلاحية التشغيل*
-
 ```bash
-chmod +x `$PREFIX/bin/mud_tr.py
+chmod +x $PREFIX/bin/mud_tr.py
 ```
 
 **الخطوة 8** — *إنشاء اختصار*
-
 ```bash
-ln -sf $`PREFIX/bin/mud_tr.py `$PREFIX/bin/tr
+ln -sf $PREFIX/bin/mud_tr.py $PREFIX/bin/tr
 ```
-
 ---
 
 <div align="center" id="التثبيت-على-kali-linux">
@@ -330,10 +326,9 @@ sudo apt install fonts-noto-core -y
 tr
 ```
 
-أو بالأمر الكامل (Termux)
-
+أ**أو بالأمر الكامل (Termux)**
 ```bash
-python $`PREFIX/bin/mud_tr.py
+python $PREFIX/bin/mud_tr.py
 ```
 
 أو بالأمر الكامل (Kali Linux)
@@ -349,9 +344,8 @@ python3 ~/mud_tr.py
 ## 🔄 تحديث الأداة
 
 **Termux:**
-
 ```bash
-curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $`PREFIX/bin/mud_tr.py && echo "تم تحديث Mud-Treader (tr) بنجاح!"
+curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py && echo "تم تحديث Mud-Treader (tr) بنجاح!"
 ```
 
 ─────────
@@ -364,10 +358,10 @@ cd ~ && curl -o mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treade
 ---
 
 ## ⚡ التثبيت بأمر واحد 
-**Termux**
 
+**Termux**
 ```bash
-pkg update && pkg upgrade -y && pkg install python curl -y && pip install websocket-client rich arabic-reshaper python-bidi && curl -o `$PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $`PREFIX/bin/mud_tr.py && ln -sf `$PREFIX/bin/mud_tr.py $`PREFIX/bin/tr && mkdir -p ~/.termux && curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc-VaA.ttf" -o ~/.termux/font.ttf && termux-reload-settings && echo "تم تثبيت Mud-Treader (tr) والخط العربي بنجاح!"
+pkg update && pkg upgrade -y && pkg install python curl -y && pip install websocket-client rich arabic-reshaper python-bidi && curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $PREFIX/bin/mud_tr.py && ln -sf $PREFIX/bin/mud_tr.py $PREFIX/bin/tr && mkdir -p ~/.termux && curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc-VaA.ttf" -o ~/.termux/font.ttf && termux-reload-settings && echo "تم تثبيت Mud-Treader (tr) والخط العربي بنجاح!"
 ```
 
 ─────────
