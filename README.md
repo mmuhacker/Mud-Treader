@@ -960,8 +960,6 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
   <img src="images/12.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   <img src="images/13.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   <img src="images/14.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
-  <img src="images/15.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
-  <img src="images/16.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   <img src="images/17.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   <img src="images/05.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   
