@@ -350,7 +350,7 @@ python3 ~/mud_tr.py
 **Termux:**
 
 ```bash
-curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $`PREFIX/bin/mud_tr.py
+curl -o $PREFIX/bin/mud_tr.py https://raw.githubusercontent.com/mmuhacker/Mud-Treader/main/mud_tr.py && chmod +x $`PREFIX/bin/mud_tr.py && echo "تم تحديث Mud-Treader (tr) بنجاح!"
 ```
 
 ─────────
