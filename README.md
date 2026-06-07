@@ -837,7 +837,7 @@ padding: 5px;">
 يحتوي البوت على حاسبة مدمجة لتحويل العملات بأسعار صرف **فعلية ومحدثة** عبر الإنترنت بإستخدام **"ExchangeRate-API"**
 📷 **حاسبة تحويل العملات**
 
-<img src="images/16.png"
+<img src="images/17.png"
 width="80%"
 style="border-radius: 20px;
 border: 2px solid var(--color-border-default);
