@@ -845,7 +845,9 @@ background: var(--color-canvas-default);
 padding: 5px;">
 
 
-<i style="color: var(--color-fg-default);">الشكل 3: حاسبة العملاتالمدمجة</i></div>
+<i style="color: var(--color-fg-default);">الشكل 3: حاسبة العملاتالمدمجة</i>
+
+</div>
 
 ---
 
