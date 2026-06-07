@@ -942,11 +942,26 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 - البيئة: Termux (Android) / Kali Linux<br>
 - الإصدار: v2.0<br>
 - الترخيص: تجاري<br>
+---
 
-<div align="center">
+<div align="center" id="صور-للبوت">
+  
+  ## صور للبوت
   <img src="images/01.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   <img src="images/02.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
-  <img src="images/03.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;"><img src="images/024.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/03.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;"><img src="images/04.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/06.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/07.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/08.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/09.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/10.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/11.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/12.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/13.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/14.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/15.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/16.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/17.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   <img src="images/05.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   
 </div>
