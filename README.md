@@ -650,7 +650,7 @@ padding: 5px;">
 
 📷 **معرف الجهاز**
 
-<img src="images/17.png"
+<img src="images/18.png"
 width="80%"
 style="border-radius: 20px;
 border: 2px solid var(--color-border-default);
@@ -662,6 +662,7 @@ padding: 5px;">
 
 </div>
 
+---
 
 <div align="center">
 
