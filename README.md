@@ -633,7 +633,7 @@ padding: 5px;">
 </div>
 
 ---
-<div align="center" id="معرف الجهاز">
+<div align="center" id="معرف-الجهاز">
   
 ## إستخراج معرف الجهاز
 </div>
