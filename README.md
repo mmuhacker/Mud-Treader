@@ -38,6 +38,7 @@
 - [إستخراج التوكن](#-إستخراج-التوكن)
 - [إنشاء سيرفر Webhook](#إعداد-سيرفر-ويب-هوك)
 - [شرح القوائم](#شرح-القوائم)
+- [معرف الجهاز](#معرف-الجهاز)
 - [الفريم الزمني](#-الفريم-الزمني)
 - [الأسواق المتاحة](#-الأسواق-المتاحة)
 - [الإستراتيجيات](#-الإستراتيجيات)
@@ -632,6 +633,35 @@ padding: 5px;">
 </div>
 
 ---
+<div align="center" id="معرف الجهاز">
+  
+## إستخراج معرف الجهاز
+</div>
+
+**الأداة تقوم بإستدعاء المعرف الخاص بجهازك**عند تشغيلها في صفحة البداية إختر رقم [2]**
+
+*هذا المعرف مطلوب لإنشاء مفتاح الترخيص الخاص بك*
+**طريقة إستخراجه**
+
+- *من الصفحة الرئيسية إختر رقم [2]*
+- *قم بنسخ الرقم الطويل وأرسله للمكور*
+
+<div align="center">
+
+📷 **معرف الجهاز**
+
+<img src="images/17.png"
+width="80%"
+style="border-radius: 20px;
+border: 2px solid var(--color-border-default);
+background: var(--color-canvas-default);
+padding: 5px;">
+
+
+<i style="color: var(--color-fg-default);">الشكل 9: حاسبة العملات المدمجة</i>
+
+</div>
+
 
 <div align="center">
 
@@ -848,7 +878,7 @@ background: var(--color-canvas-default);
 padding: 5px;">
 
 
-<i style="color: var(--color-fg-default);">الشكل 9: حاسبة العملات المدمجة</i>
+<i style="color: var(--color-fg-default);">الشكل 10: حاسبة العملات المدمجة</i>
 
 </div>
 
@@ -943,7 +973,9 @@ sudo ln -sf ~/mud_tr.py /usr/local/bin/tr
 <div align="center" id="صور-للبوت">
   
   ## صور للبوت
+  
   <img src="images/01.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
+  <img src="images/17.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   <img src="images/02.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   <img src="images/03.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;"><img src="images/04.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
   <img src="images/06.png" width="45%" style="border-radius: 20px; border: 2px solid var(--color-border-default); margin: 5px;">
